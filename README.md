@@ -1,8 +1,9 @@
 # Master-thesis
-## MSc. Social Protection
-## University of Applied Sciences Bonn-Rhein-Sieg.
 
-Summary of my Master's Thesis on AI experiences in the Public Sector.
+MSc. Social Protection
+University of Applied Sciences Bonn-Rhein-Sieg.
+
+AI experiences in the Public Sector.
 
 * Since most of the evidence has focused on a group of economies, such as the United States, China, and Europe, this research was focused on developing countries.
 * A Qualitative Multi Method Approach with Two Stages was followed:
