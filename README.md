@@ -1,6 +1,7 @@
 # Master-thesis
 
-MSc. Social Protection
+MSc. Social Protection.
+
 University of Applied Sciences Bonn-Rhein-Sieg.
 
 AI experiences in the Public Sector.
